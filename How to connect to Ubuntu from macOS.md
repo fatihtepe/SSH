@@ -14,3 +14,14 @@
 - enter password
 
 *When the SSH connection is successful, feel free to use the command-line as if you were sitting right in front of the PC!
+
+
+## How To Use The scp Command to Copy a File From Local to Remote
+
+- scp localpath remotename@ubuntu-pc:remotepath
+- enter password
+
+
+## How To Use The scp Command to Copy a File From Remote to local
+-- scp remotename@ubuntu-pc:remotepath localpath
+- enter password
