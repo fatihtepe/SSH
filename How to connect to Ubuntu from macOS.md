@@ -23,5 +23,5 @@
 
 
 ## How To Use The scp Command to Copy a File From Remote to local
--- scp remotename@ubuntu-pc:remotepath localpath
+- scp remotename@ubuntu-pc:remotepath localpath
 - enter password
