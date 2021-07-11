@@ -1,7 +1,7 @@
-In Windows 10 there is a feature, that when installed, allow users to connect remotely with the SSH protocol.
+- In Windows 10 there is a feature, that when installed, allow users to connect remotely with the SSH protocol.
 
-To Install OpenSSH Server
-
+`To Install OpenSSH Server`
+```
 - Settings
 - App Features
 - Optioanal Features
@@ -13,5 +13,5 @@ To Install OpenSSH Server
 - Double Click
 - Choose Status type => Automatic
 - Click ok.
-
-your windows machine is ready for SSH
+```
+* your windows machine is ready for SSH
